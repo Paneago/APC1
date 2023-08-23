@@ -1,4 +1,4 @@
-# Alforítimos e Programação de Computadores I
+# Algorítimos e Programação de Computadores I
 
 Repositório criado para submeter os códigos da diciplina
 
